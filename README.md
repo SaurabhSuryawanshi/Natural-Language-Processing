@@ -12,4 +12,4 @@ Features:-
 - Normalization: Lowercase conversion, removing diacritics, and handling contractions.
 - Encoding: One-Hot Encoding.
 
-
+Not a complete one ...
