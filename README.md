@@ -10,6 +10,6 @@ Features:-
 - Stopword Removal: Filter out commonly used words that add minimal meaning.
 - Stemming and Lemmatization: Reduce words to their base or root form.
 - Normalization: Lowercase conversion, removing diacritics, and handling contractions.
-
+- Encoding: One-Hot Encoding.
 
 
