@@ -12,4 +12,6 @@ Features:-
 - Normalization: Lowercase conversion, removing diacritics, and handling contractions.
 - Encoding: One-Hot Encoding, MinMaxScalar.
 
-Not a complete one ...
+-Feature extraction using TF-IDF Vectorization.
+-Binary sentiment classification using Naive Bayes and SVM.
+
