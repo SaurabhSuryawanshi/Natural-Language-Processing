@@ -13,5 +13,7 @@ Features:-
 - Encoding: One-Hot Encoding, MinMaxScalar.
 
 -Feature extraction using TF-IDF Vectorization.
+
 -Binary sentiment classification using Naive Bayes and SVM.
+
 -Books recommendations based on titles,genre and their description.
