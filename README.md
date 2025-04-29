@@ -16,4 +16,4 @@ Features:-
 
 -Binary sentiment classification using Naive Bayes and SVM.
 
--Books recommendations based on titles,genre and their description.
+-Books recommendations based on titles, genre and their description.
