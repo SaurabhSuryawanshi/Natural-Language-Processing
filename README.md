@@ -1,4 +1,5 @@
 Overview:
+
 This project focuses on leveraging Natural Language Processing (NLP) techniques to build two interconnected applications: sentiment analysis and a book recommendation system.
 
 Sentiment Analysis:
@@ -14,9 +15,10 @@ Book Recommendation System:
 
 Amazon Review Analysis:
 
--Rating Prediction Models: Advanced machine learning models integrated with NLP can predict product ratings based on textual reviews and customer behavior metrics.
+-Rating Prediction Models:- Advanced machine learning models integrated with NLP can predict product ratings based on textual reviews and customer behavior metrics.
 -These models use features like sentiment scores, engagement metrics, and temporal factors to provide accurate predictions.
--Feature Engineering: NLP can extract specific product features mentioned in reviews, helping sellers highlight key attributes and improve product descriptions.
+
+-Feature Engineering:- NLP can extract specific product features mentioned in reviews, helping sellers highlight key attributes and improve product descriptions.
 
 Features:-
 
@@ -29,6 +31,6 @@ Features:-
 
 -Feature extraction using TF-IDF Vectorization.
 
--Binary sentiment classification using Naive Bayes and SVM.
+-Binary sentiment classification using Naive Bayes and SVM and Logistic Regression.
 
 -Books recommendations based on titles, genre and their description.
