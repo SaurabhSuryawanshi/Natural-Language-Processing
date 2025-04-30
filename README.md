@@ -16,7 +16,7 @@ Book Recommendation System:
 Amazon Review Analysis:
 
 -Rating Prediction Models:- Advanced machine learning models integrated with NLP can predict product ratings based on textual reviews and customer behavior metrics.
--These models use features like sentiment scores, engagement metrics, and temporal factors to provide accurate predictions.
+These models use features like sentiment scores, engagement metrics, and temporal factors to provide accurate predictions.
 
 -Feature Engineering:- NLP can extract specific product features mentioned in reviews, helping sellers highlight key attributes and improve product descriptions.
 
