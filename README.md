@@ -5,7 +5,7 @@ This project focuses on leveraging Natural Language Processing (NLP) techniques 
 Sentiment Analysis:
   
 - Sentiment analysis involves identifying and categorizing the emotional tone behind text, such as user reviews, social media posts, or book descriptions.
-- The aim is to determine whether the sentiment is positive, negative, or neutral. Advanced NLP methods like word embeddings, transformers, or pre-trained models (e.g., BERT) can be employed for this purpose.
+- The aim is to determine whether the sentiment is positive, negative, or neutral. Advanced NLP methods like word embeddings, transformers, or pre-trained models can be employed for this purpose.
 - This module helps understand audience preferences, enabling improved personalization and insights.
 
 Book Recommendation System:
