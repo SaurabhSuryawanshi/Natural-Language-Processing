@@ -1,5 +1,4 @@
-Overview:
-
+Overview:-
 This project focuses on leveraging Natural Language Processing (NLP) techniques to build two interconnected applications: sentiment analysis and a book recommendation system.
 
 Sentiment Analysis:
